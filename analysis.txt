@@ -1,1 +1,26 @@
+Analysis of Political Ideology vs Happiness
+
+From the scatter plot and histogram, we can observe the following:
+
+1. Most of the left-leaning countries (Political Ideology < 4) are in Northern Europe
+   and tend to have high happiness scores (around 7.4–7.8).
+
+2. Center-leaning countries (Political Ideology 4–6) show a wide range of happiness scores,
+   generally between 6.0–7.2.
+
+3. Right-leaning countries (Political Ideology > 6) tend to have slightly lower happiness
+   scores, often around 4.8–6.0, with some exceptions.
+
+4. The histogram shows that most countries in this dataset are center-to-right leaning,
+   with fewer extreme left countries.
+
+5. Overall, there seems to be a negative correlation between political ideology (Left → Right)
+   and happiness in this dataset: as countries become more right-leaning, their average
+   happiness score slightly decreases. However, this is a small sample, so it should
+   not be generalized without further data.
+
+Conclusion:
+Happiness appears higher in more left-leaning countries in this dataset, while right-leaning
+countries tend to have slightly lower happiness scores. This aligns with some global
+happiness and policy research.
 
